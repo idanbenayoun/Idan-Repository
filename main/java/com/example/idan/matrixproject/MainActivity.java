@@ -67,13 +67,13 @@ public class MainActivity extends AppCompatActivity {
         }
 
        button[0].setText("Upper part");
-       button[0].setTextSize(30);
+       button[0].setTextSize(20);
        button[1].setText("Diagnols");
-       button[1].setTextSize(30);
+       button[1].setTextSize(20);
        button[2].setText("Down part");
-       button[2].setTextSize(30);
+       button[2].setTextSize(20);
        button[3].setText("Border");
-       button[3].setTextSize(30);
+       button[3].setTextSize(20);
 
         for(int i=0;i<4;i++){
             if(i<2)
