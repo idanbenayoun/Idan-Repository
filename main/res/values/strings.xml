@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Matrix Project</string>
+    <string name="matrix">Matrix</string>
+    <string name="upper_part">Upper Part</string>
+    <string name="diagnols">Diagnols</string>
+    <string name="lower_part">Lower Part</string>
+    <string name="border">Border</string>
+</resources>
